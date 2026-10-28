@@ -1,0 +1,12 @@
+# Raw RxRx2 data and archives are intentionally not versioned.
+data/
+raw_subset/
+rxrx2/images/
+*.tar
+*.zip
+*.pt
+*.pth
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env

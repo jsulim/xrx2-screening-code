@@ -1,0 +1,3 @@
+model,setting,macro_f1,balanced_accuracy
+Logistic,HUVEC1 train -> HUVEC2 same-treatment diagnostic,0.3244486627485444,0.3741167270183222
+XGBoost,HUVEC1 train -> HUVEC2 same-treatment diagnostic,0.34770550347109075,0.36823681256329194
